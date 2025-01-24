@@ -1,0 +1,3 @@
+C:/Users/minef/CLionProjects/Projekt_Dodatkowy/cmake-build-debug/CMakeFiles/Projekt_Dodatkowy.dir
+C:/Users/minef/CLionProjects/Projekt_Dodatkowy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/minef/CLionProjects/Projekt_Dodatkowy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
